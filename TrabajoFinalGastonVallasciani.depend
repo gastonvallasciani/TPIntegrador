@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670384212 source:c:\users\gaston\documents\codigos c++\trabajofinalgastonvallasciani\main.cpp
+	<iostream>
+	<vector>
+	"ColeccionGenerica.h"
+
+1670167658 c:\users\gaston\documents\codigos c++\trabajofinalgastonvallasciani\include\colecciongenerica.h
+	<string>
+	<iostream>
+
+1670086084 source:c:\users\gaston\documents\codigos c++\trabajofinalgastonvallasciani\src\colecciongenerica.cpp
+	"ColeccionGenerica.h"
+
